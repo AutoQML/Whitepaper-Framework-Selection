@@ -1,7 +1,7 @@
 # Whitepaper-Framework-Selection
 This repository contains additional material for the whitepaper about the AutoML framework selection process in the AutoQML project
 
-<img src="doc/ml-pipeline-framework.png" alt="ML Pipeline" width="700"/>
+<img src="doc/ml-pipeline-framework.pdf" alt="ML Pipeline" width="800"/>
 
 ### This repo contains
 - The [Whitepaper](Bringing_Quantum_Algorithms_to_Automated_Machine_Learning.pdf) itself
