@@ -2,6 +2,7 @@
 
 # *Whitepaper* Bringing Quantum Algorithms to Automated Machine Learning
 This repository contains the whitepaper "Bringing Quantum Algorithms to Automated Machine Learning" and supplementary material.
+The publication can also be accessed via arXiv: [https://arxiv.org/abs/2310.04238](https://arxiv.org/abs/2310.04238)
 
 #### Acknowledgement
 This work was created in the context of the AutoQML project, funded by the Federal Ministry
